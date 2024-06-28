@@ -3,8 +3,50 @@
 </p>
 
 <p align="center">
-<img width=1500 src="https://64.media.tumblr.com/c583e4ec06b59b17bc51cf90e8ffa9de/884e2e8d0b75359d-2e/s1280x1920/6d2913cd59296fda6ab89131f37ffd7ab70e2796.jpg"
+<img width=700 src="https://64.media.tumblr.com/f0a191ac76e96f6f769d7abc5ae3efa9/de3806085997d66d-8c/s540x810/553f676301aac2af2d4440135d0d43d75a2e1730.pnj"
+ </p>
+
+ <p align="center">
+<img width=490 src="https://64.media.tumblr.com/5aabca465d23c8ed3d5dc4d89a98f894/218df9079897465a-78/s400x600/d6a6309b9502f9e44018b200f68cc83acc781278.pnj"
+ </p>
+
+<p align="center">
+<img width=300 src="https://files.catbox.moe/qd1ng1.jpg"
 </p>
+
+<p align="center">
+<img width=250 src="https://i.imgur.com/V0IxwoS.png"
+</p>
+ 
+<p align="center">
+alec / alex / ean⠀!
+</p>
+
+<p align="center">
+they  ꩜ any 。｡ nonbinary butch
+</p>
+
+<p align="center">
+<img width: 230 src="https://i.imgur.com/HdBx6om.gif"
+</p>
+
+<p align="center">
+filipino/former kuwaitian — eng/filp
+</p>
+
+<p align="center">
+bisexual , aroace
+</p>
+
+<p align="center">
+<img width=490 src="https://64.media.tumblr.com/6f4ff76fdb91c69b5f88d26a04497f2d/218df9079897465a-a1/s400x600/6b76eadd8218a3a8c3d02f1ca153b9b36bfebbcc.pnj"
+</p>
+
+
+<p align="center">
+<img width=700 src="https://64.media.tumblr.com/f0a191ac76e96f6f769d7abc5ae3efa9/de3806085997d66d-8c/s540x810/553f676301aac2af2d4440135d0d43d75a2e1730.pnj"
+ </p>
+ 
 
  ***
 <p align="center"> 
@@ -57,5 +99,5 @@ eddsworld
 ‎ ‎ 
 ‎ ‎ 
 <p align="center">
-<img width=1500 src="https://64.media.tumblr.com/c583e4ec06b59b17bc51cf90e8ffa9de/884e2e8d0b75359d-2e/s1280x1920/6d2913cd59296fda6ab89131f37ffd7ab70e2796.jpg"
+<img width=700 src="https://64.media.tumblr.com/f0a191ac76e96f6f769d7abc5ae3efa9/de3806085997d66d-8c/s540x810/553f676301aac2af2d4440135d0d43d75a2e1730.pnj"
 </p>
