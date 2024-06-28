@@ -11,7 +11,7 @@
  </p>
 
 <p align="center">
-<img width=300 src="https://files.catbox.moe/qd1ng1.jpg"
+<img width=300 src="https://files.catbox.moe/ligqfy.jpg"
 </p>
 
 <p align="center">
@@ -54,7 +54,11 @@ bisexual , aroace
 </p>
 
 ***
-‎ ‎ ‎ 
+‎
+<p align="center">
+<img width=300 src="https://files.catbox.moe/wmwcq3.jpg"
+</p>
+‎ ‎ 
 ‎ ‎ ‎ ‎ 
 <p align="center">
 ꩜ INTERESTS INFO !! :
