@@ -1,4 +1,9 @@
 <p align="center">
+<img width=260 src="https://komarev.com/ghpvc/?username=exoean&color=grey&style=for-the-badge&label=hi+profile+viewers+(+profile+views&abbreviated=true"
+ </p>
+
+
+<p align="center">
 𝗱𝗲𝘀𝗸𝘁𝗼𝗽 𝗮𝗻𝗱 𝗹𝗶𝗴𝗵𝘁 𝗺𝗼𝗱𝗲 𝗶𝘀 𝗴𝗼𝗼𝗱 𝗳𝗼𝗿 𝗺𝘆 𝗴𝗶𝘁𝗵𝘂𝗯 .
 </p>
 
