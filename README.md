@@ -29,7 +29,7 @@ desktop/on computer will be 𝗴𝗼𝗼𝗱 𝗳𝗼𝗿 𝗺𝘆 𝗴𝗶𝘁�
 
 </p>
 <p align="center">
-<img width=310 src="https://komarev.com/ghpvc/?username=exoean&color=grey&style=for-the-badge&label=hi+profile+viewers+(+profile+views+:&abbreviated=true"
+<img width=310 src="https://komarev.com/ghpvc/?username=exoean&color=grey&style=for-the-badge&label=how+many+books+do+i+have+now:&abbreviated=true"
  </p>
 <p align="center">
 <img width=250 src="https://i.imgur.com/V0IxwoS.png"
