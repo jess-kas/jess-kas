@@ -27,6 +27,8 @@
 <img width=450 src="https://files.catbox.moe/w5rp4d.png"
 </p>
 
+$\textcolor{darkblue}{❝⠀No⠀matter⠀what⠀she⠀told⠀me,⠀I⠀was⠀still⠀the⠀same⠀man⠀she⠀couldn't⠀stand.⠀❞}$
+
  ***
  
 </p>
