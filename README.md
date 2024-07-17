@@ -33,7 +33,7 @@ $\textcolor{darkblue}{❝⠀No⠀matter⠀what⠀she⠀told⠀me,⠀I⠀was⠀st
  
 </p>
 <p align="center">
-<img width=370 src="https://komarev.com/ghpvc/?username=exoean&color=grey&style=for-the-badge&label=people+on+viewer+gang+:&abbreviated=true"
+<img width=370 src="https://komarev.com/ghpvc/?username=exoean&color=grey&style=for-the-badge&label=people+on+viewer+gang+:"
  </p>
 
  ***
