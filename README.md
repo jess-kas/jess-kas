@@ -12,7 +12,7 @@
 
 
 <p align="center">
-<img width=1000 src="https://64.media.tumblr.com/d53c14676fcf607aef49cd697597feb1/e16910486d89f4ed-0c/s540x810/40eecf6708ce3816180f11e97ba17ec500f401de.pnj"
+<img width=1000 src="https://64.media.tumblr.com/917e7294789c63ca0bb2058e0557b80e/283be99b02f7150f-05/s500x750/eb5e7246ee07b71c18b5ab469d0dbd7454a5d5a4.pnj"
  </p>
 
 
@@ -20,20 +20,20 @@
     
 ‎ 
 <p align="center">
-<img width=790 src="https://i.postimg.cc/RFzcDH9b/Untitled1327-20230807102112.png"
+<img width=790 src="https://64.media.tumblr.com/6b3659002e1d9a37d13d9184be313cd5/b69c01f137587a87-0d/s400x600/41c0b2d7851d7b273b448b9ab9e3d4ec4ca0fdf7.pnj"
 </p>‎
 
 <p align="center">
 <img width=450 src="https://files.catbox.moe/w5rp4d.png"
 </p>
 
-$\textcolor{darkblue}{❝⠀No⠀matter⠀what⠀she⠀told⠀me,⠀I⠀was⠀still⠀the⠀same⠀man⠀she⠀couldn't⠀stand.⠀❞}$
+$\textcolor{grey}{❝⠀No⠀matter⠀what⠀she⠀told⠀me,⠀I⠀was⠀still⠀the⠀same⠀man⠀she⠀couldn't⠀stand.⠀❞}$
 
  ***
  
 </p>
 <p align="center">
-<img width=370 src="https://komarev.com/ghpvc/?username=exoean&color=grey&style=for-the-badge&label=people+on+viewer+gang+:"
+<img width=370 src="https://komarev.com/ghpvc/?username=exoean&color=lightgrey&style=for-the-badge&label=people+on+viewer+gang+:"
  </p>
 
  ***
@@ -42,7 +42,7 @@ $\textcolor{darkblue}{❝⠀No⠀matter⠀what⠀she⠀told⠀me,⠀I⠀was⠀st
 
 
 <p align="center">
-<img width=790 src="https://i.postimg.cc/g2nqXpN4/Untitled1327-20230807102107.png"
+<img width=790 src="https://64.media.tumblr.com/6b3659002e1d9a37d13d9184be313cd5/b69c01f137587a87-0d/s400x600/41c0b2d7851d7b273b448b9ab9e3d4ec4ca0fdf7.pnj"
 </p>‎
 ‎ 
                                                         
@@ -51,7 +51,7 @@ $\textcolor{darkblue}{❝⠀No⠀matter⠀what⠀she⠀told⠀me,⠀I⠀was⠀st
 
 
 <p align="center">
-<img width=1000 src="https://64.media.tumblr.com/94d51dbc00f6e5e63d175de479f729e6/e16910486d89f4ed-07/s540x810/48d0ddb7508b6da951b0b7bd7bff0ac68d78ba7c.pnj"
+<img width=1000 src="https://64.media.tumblr.com/917e7294789c63ca0bb2058e0557b80e/283be99b02f7150f-05/s500x750/eb5e7246ee07b71c18b5ab469d0dbd7454a5d5a4.pnj"
 </p>
 
 
