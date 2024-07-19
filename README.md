@@ -24,10 +24,10 @@
 </p>‎
 
 <p align="center">
-<img width=450 src="https://files.catbox.moe/w5rp4d.png"
+<img width=450 src="https://files.catbox.moe/v2o1jv.png"
 </p>
 
-$\textcolor{grey}{❝⠀No⠀matter⠀what⠀she⠀told⠀me,⠀I⠀was⠀still⠀the⠀same⠀man⠀she⠀couldn't⠀stand.⠀❞}$
+$\textcolor{grey}{the⠀ponytown⠀alenick⠀lover⠀canon⠀award}$
 
  ***
  
