@@ -27,7 +27,7 @@
 <img width=450 src="https://files.catbox.moe/v2o1jv.png"
 </p>
 
-$\textcolor{grey}{the⠀ponytown⠀alenick⠀lover⠀canon⠀award}$
+$\textcolor{grey}{alenick⠀disventure⠀camp⠀i⠀gues..⠀}$
 
  ***
  
