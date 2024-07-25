@@ -38,7 +38,10 @@ $\textcolor{grey}{alenick⠀disventure⠀camp⠀i⠀gues..⠀}$
  </p>
 
 
-**[go to my atabook](https://alenick.atabook.org)**
+</p>
+<p align="center">
+<a href="https://alenick.atabook.org">my atabook</a>
+</p>
 
  ***
 
