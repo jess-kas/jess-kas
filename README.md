@@ -29,27 +29,18 @@ hi i was @alenick
 </p>
 
 <p align="center">
-$\textcolor{grey}{alenick⠀disventure⠀camp⠀i⠀gues..⠀}$
+$\textcolor{grey}{alenick⠀disventure⠀camp⠀huge⠀comf⠀gang..⠀}$
 </p>
- 
+
 </p>
 <p align="center">
-<img width=370 src="https://komarev.com/ghpvc/?username=exoean&color=lightgrey&style=for-the-badge&label=people+on+viewer+gang+:"
+<a href="https://alenick.atabook.org">my atabook</a>⠀⠀ <a href="https://arab.org/click-to-help/palestine/">HELP PALESTINE !</a>
+</p>
+
+</p>
+<p align="center">
+<img width=280 src="https://komarev.com/ghpvc/?username=exoean&color=lightgrey&style=for-the-badge&label=people+on+viewer+gang+:"
  </p>
-
-***
-
-</p>
-<p align="center">
-<a href="https://alenick.atabook.org">my atabook</a>
-</p>
-
-</p>
-<p align="center">
-<a href="https://arab.org/click-to-help/palestine/">HELP PALESTINE !</a>
-</p>
-
- ***
 
 
 <p align="center">
