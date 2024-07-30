@@ -34,7 +34,7 @@ $\textcolor{grey}{alenick⠀disventure⠀camp⠀huge⠀comf⠀gang..⠀}$
 
 </p>
 <p align="center">
-<a href="https://alenick.atabook.org">SIGN ATABOOK</a>⠀⠀ <a href="https://yyaoi.straw.page">GIVE GIMMICKS TO STRAWPAGE </a>⠀⠀ <a href="https://arab.org/click-to-help/palestine/">HELP PALESTINE !</a>
+<a href="https://alenick.atabook.org">𝗦𝗜𝗚𝗡 𝗔𝗧𝗔𝗕𝗢𝗢𝗞</a>⠀⠀ <a href="https://yyaoi.straw.page">𝗚𝗜𝗩𝗘 𝗚𝗜𝗠𝗠𝗜𝗖𝗞𝗦 </a>⠀⠀ <a href="https://arab.org/click-to-help/palestine/">𝗛𝗘𝗟𝗣 𝗣𝗔𝗟𝗘𝗦𝗧𝗜𝗡𝗘 !</a>
 </p>
 
 </p>
