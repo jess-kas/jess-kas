@@ -1,4 +1,4 @@
-hi i was @alenick
+mostly known as " @alenick " 
 
 
 <p align="center">
@@ -34,7 +34,7 @@ $\textcolor{grey}{alenick⠀disventure⠀camp⠀huge⠀comf⠀gang..⠀}$
 
 </p>
 <p align="center">
-<a href="https://alenick.atabook.org">my atabook</a>⠀⠀ <a href="https://arab.org/click-to-help/palestine/">HELP PALESTINE !</a>
+<a href="https://alenick.atabook.org">SIGN ATABOOK</a>⠀⠀ <a href="https://yyaoi.straw.page">GIVE GIMMICKS TO STRAWPAGE </a>⠀⠀ <a href="https://arab.org/click-to-help/palestine/">HELP PALESTINE !</a>
 </p>
 
 </p>
