@@ -4,6 +4,11 @@
 
 </p>
 <p align="center">
+<kbd>hey there</kbd>
+</p>
+
+</p>
+<p align="center">
 <img width=100 src="https://komarev.com/ghpvc/?username=exoean&color=3A5A83&style=for-the-badge&label=📖"
  </p>
 
@@ -12,12 +17,12 @@
 </p>
 
 <p align="center">
-$\textcolor{#7991AD}{alenick⠀disventure⠀camp⠀huge⠀comf⠀gang..⠀}$
+$\textcolor{#7991AD}{alenick⠀disventure⠀camp!⠀}$
 </p>
 
 </p>
 <p align="center">
-<a href="https://alenick.atabook.org">𝗦𝗜𝗚𝗡 𝗔𝗧𝗔𝗕𝗢𝗢𝗞</a>⠀⠀ <a href="https://yyaoi.straw.page">𝗚𝗜𝗩𝗘 𝗚𝗜𝗠𝗠𝗜𝗖𝗞𝗦 </a>⠀⠀ <a href="https://arab.org/click-to-help/palestine/">𝗛𝗘𝗟𝗣 𝗣𝗔𝗟𝗘𝗦𝗧𝗜𝗡𝗘 !</a>
+<a href="https://rentry.org/alecs">rentry.org</a>⠀⠀ <a href="https://alenick.atabook.org">atabook.org</a>⠀⠀ <a href="https://yyaoi.straw.page">straw.page</a>⠀⠀ <a href="https://arab.org/click-to-help/palestine/">help palestine</a>
 </p>
 
 
