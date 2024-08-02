@@ -7,17 +7,23 @@
 </p>
 
 <p align="center">
-$\textcolor{grey}{alenick⠀disventure⠀camp⠀huge⠀comf⠀gang..⠀}$
+$\textcolor{#7991AD}{alenick⠀disventure⠀camp⠀huge⠀comf⠀gang..⠀}$
 </p>
 
 </p>
 <p align="center">
-<a href="https://alenick.atabook.org">𝗦𝗜𝗚𝗡 𝗔𝗧𝗔𝗕𝗢𝗢𝗞</a>⠀⠀ <a href="https://yyaoi.straw.page">𝗚𝗜𝗩𝗘 𝗚𝗜𝗠𝗠𝗜𝗖𝗞𝗦 </a>⠀⠀ <a href="https://arab.org/click-to-help/palestine/">𝗛𝗘𝗟𝗣 𝗣𝗔𝗟𝗘𝗦𝗧𝗜𝗡𝗘 !</a>
+<a href="https://alenick.atabook.org">𝗦𝗜𝗚𝗡 𝗔𝗧𝗔𝗕𝗢𝗢𝗞</a>⠀⠀ <a href="https://yyaoi.straw.page">𝗚𝗜𝗩𝗘 𝗚𝗜𝗠𝗠𝗜𝗖𝗞𝗦 </a>⠀⠀ 
+</p>
+
+
+</p> 
+<p align="center">
+<a href="https://arab.org/click-to-help/palestine/">𝗛𝗘𝗟𝗣 𝗣𝗔𝗟𝗘𝗦𝗧𝗜𝗡𝗘 !</a>
 </p>
 
 </p>
 <p align="center">
-<img width=280 src="https://komarev.com/ghpvc/?username=exoean&color=lightgrey&style=for-the-badge&label=people+on+viewer+gang+:"
+<img width=110 src="https://komarev.com/ghpvc/?username=exoean&color=blue&style=for-the-badge&label=📖"
  </p>
 
 
