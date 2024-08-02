@@ -1,27 +1,5 @@
-mostly known as " @alenick " 
-
-
 <p align="center">
-‎ ‎ ‎ 
-</p>
-‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-
-‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-
-
-<p align="center">
-<img width=1000 src="https://64.media.tumblr.com/917e7294789c63ca0bb2058e0557b80e/283be99b02f7150f-05/s500x750/eb5e7246ee07b71c18b5ab469d0dbd7454a5d5a4.pnj"
- </p>
-
-
-
-    
-‎ 
-<p align="center">
-<img width=790 src="https://64.media.tumblr.com/6b3659002e1d9a37d13d9184be313cd5/b69c01f137587a87-0d/s400x600/41c0b2d7851d7b273b448b9ab9e3d4ec4ca0fdf7.pnj"
+<img width=1000 src="https://64.media.tumblr.com/3131c31b779540a016e03256bc618b38/42d997020b109ec7-97/s540x810/3e25311281920fda7a4058c613fa966ccb3376b8.pnj"
 </p>‎
 
 <p align="center">
@@ -43,28 +21,7 @@ $\textcolor{grey}{alenick⠀disventure⠀camp⠀huge⠀comf⠀gang..⠀}$
  </p>
 
 
-<p align="center">
-<img width=790 src="https://64.media.tumblr.com/6b3659002e1d9a37d13d9184be313cd5/b69c01f137587a87-0d/s400x600/41c0b2d7851d7b273b448b9ab9e3d4ec4ca0fdf7.pnj"
-</p>‎
-‎ 
-                                                        
-‎ 
-‎ 
-
 
 <p align="center">
-<img width=1000 src="https://64.media.tumblr.com/917e7294789c63ca0bb2058e0557b80e/283be99b02f7150f-05/s500x750/eb5e7246ee07b71c18b5ab469d0dbd7454a5d5a4.pnj"
-</p>
-
-
-
-‎ 
-
-
-<p align="center">
-‎ ‎ ‎ 
-</p>
-‎ ‎ ‎ ‎ 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-
+<img width=1000 src="https://64.media.tumblr.com/0bf1dd8865a8b4a3cf37b6913f7c4be1/42d997020b109ec7-40/s540x810/99cf837fb6239b22b7b468219032b237cfce0cfb.pnj"
+ </p>
