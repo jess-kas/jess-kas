@@ -22,7 +22,7 @@ $\textcolor{#7991AD}{alenick⠀disventure⠀camp!⠀}$
 
 </p>
 <p align="center">
-<a href="https://rentry.org/alecs">rentry.org</a>⠀⠀ <a href="https://alenick.atabook.org">atabook.org</a>⠀⠀ <a href="https://yyaoi.straw.page">straw.page</a>⠀⠀ <a href="https://arab.org/click-to-help/palestine/">help palestine</a>
+<a href="https://linktr.ee/@aIenick">linktr.ee</a>⠀⠀ <a href="https://arab.org/click-to-help/palestine/">help palestine</a>
 </p>
 
 
