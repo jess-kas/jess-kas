@@ -7,6 +7,7 @@
 <kbd>hey there</kbd>
 </p>
 
+
 </p>
 <p align="center">
 <img width=100 src="https://komarev.com/ghpvc/?username=exoean&color=3A5A83&style=for-the-badge&label=📖"
@@ -18,6 +19,11 @@
 
 <p align="center">
 $\textcolor{#7991AD}{alenick⠀disventure⠀camp!⠀}$
+</p>
+
+</p>
+<p align="center">
+<kbd>c+h / w2i anytime i feel lonely </kbd>
 </p>
 
 </p>
