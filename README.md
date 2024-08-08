@@ -23,7 +23,7 @@ $\textcolor{#7991AD}{alenick⠀disventure⠀camp!⠀}$
 
 </p>
 <p align="center">
-<kbd>c+h / w2i anytime i feel lonely </kbd>
+<kbd>c+h / w2i anytime ((im 100% scared to int to people)</kbd>
 </p>
 
 </p>
