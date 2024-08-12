@@ -7,7 +7,7 @@
 </p>‎
 ‎ 
 <p align="center">
-<img width=190 src="https://files.catbox.moe/v5s6hi.png"
+<img width=220 src="https://files.catbox.moe/v5s6hi.png"
 </p>
  ‎ 
 </p>
