@@ -24,7 +24,7 @@
 <div align="center">
   <div align="center"> 
 
- <sup>[linktr.ee](https://linktr.ee/aIenick) - [help palestine](https://arab.org/click-to-help/palestine/)
+ <sup>[rentry](https://rentry.org/alecs) - [atabook](https://alenick.atabook.org) - [strawpage](https://yyaoi.straw.page) - [help palestine](https://arab.org/click-to-help/palestine/)
 
 
 <p align="center">
