@@ -12,13 +12,8 @@
 <img width=260 src="https://files.catbox.moe/i768j6.png"
  </p> 
 <p align="center">
-<img width=240 src="https://files.catbox.moe/phmlvi.png"
+<img width=310 src="https://files.catbox.moe/4uq9k4.png"
 </p>
- ‎ 
-</p>
-<p align="center">
-<img width=80 src="https://komarev.com/ghpvc/?username=exoean&color=ffcae7&style=for-the-badge&label=📖"
- </p>
 
  
 <div align="center">
@@ -29,6 +24,12 @@
  <sup>[rentry](https://rentry.org/alecs) - [atabook](https://alenick.atabook.org) - [strawpage](https://yyaoi.straw.page) - [help palestine](https://arab.org/click-to-help/palestine/)
 
 
+</p>
+<p align="center">
+<img width=80 src="https://komarev.com/ghpvc/?username=exoean&color=ffcae7&style=for-the-badge&label=📖"
+ </p>
+
+ 
 <p align="center">
 <img width=260 src="https://files.catbox.moe/viigbu.png"
 </p>
