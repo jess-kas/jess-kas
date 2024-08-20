@@ -18,7 +18,7 @@
 <div align="center">
   <div align="center"> 
 
- <sup>[rentry](https://rentry.org/alecs) - [atabook](https://alenick.atabook.org) - [strawpage](https://yyaoi.straw.page) - [help palestine](https://arab.org/click-to-help/palestine/)
+ <sup>[rentry](https://rentry.org/alecs) - [carrd](https://alenick.carrd.co) - [atabook](https://alenick.atabook.org)  -  [strawpage](https://yyaoi.straw.page) - [help palestine](https://arab.org/click-to-help/palestine/)
 
 </p>
 <p align="center">
