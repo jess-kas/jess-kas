@@ -2,13 +2,15 @@
 <p align="center">
 <img width=400 src="https://64.media.tumblr.com/a981518a21d8e398a35c5709ddaded3d/37e54730efef8c04-a6/s640x960/619f8c21d1adc03d19a6505c160a6608a04abc1d.pnj"
  </p>
-
 <p align="center">
-<img width=260 src="https://files.catbox.moe/j4c51d.png"
+<img width=270 src="https://files.catbox.moe/kptihg.png"
+</p>
+<p align="center">
+<img width=300 src="https://files.catbox.moe/j4c51d.png"
 </p>
 </p>
 <p align="center">
-<img width=74 src="https://komarev.com/ghpvc/?username=exoean&color=cecece&style=for-the-badge&label=📖"
+<img width=111 src="https://komarev.com/ghpvc/?username=exoean&color=cecece&style=for-the-badge&label=📖"
  </p>
  
 <div align="center">
