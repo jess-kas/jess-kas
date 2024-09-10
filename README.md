@@ -3,17 +3,17 @@
 
 
  <p align="center">
-<img width=800 src="https://files.catbox.moe/998tq9.png"
+<img width=800 src="https://64.media.tumblr.com/676a662b87b9e38e924e821ccf51ac60/8ec739b97745decb-40/s640x960/a84a8073367286c0dc7f1d8181ba4844416a032e.pnj"
 </p>
 <p align="center">
-<img width=500 src="https://files.catbox.moe/1qrzak.png"
+<img width=500 src="https://files.catbox.moe/998tq9.png"
 </p>
 <p align="center">
 <img width=320 src="https://files.catbox.moe/8cyedh.png"
 </p>
 </p>
 <p align="center">
-<img width=99 src="https://komarev.com/ghpvc/?username=exoean&color=e9e9e9&style=for-the-badge&label=‎ "
+<img width=99 src="https://komarev.com/ghpvc/?username=exoean&color=e4e4e4&style=for-the-badge&label=‎ "
  </p>
  
 <div align="center">
@@ -24,10 +24,10 @@
  <sup> <img width=50 src="https://64.media.tumblr.com/fce67a0228088ae51b2e84a27f708d5f/5d11f03c6cef5499-86/s100x200/daa1c6dde28790e23b0c32efece9d07886884459.pnj"> [rentry](https://rentry.org/alecs) - [carrd](https://alenick.carrd.co) - [atabook](https://alenick.atabook.org)  -  [help palestine](https://arab.org/click-to-help/palestine/)
 
  <p align="center">
-<img width=500 src="https://files.catbox.moe/6r0jtx.png"
+<img width=500 src="https://files.catbox.moe/salbxb.png"
 </p>
  <p align="center">
-<img width=800 src="https://files.catbox.moe/salbxb.png"
+<img width=800 src="https://files.catbox.moe/nymy6o.png"
 </p>
 
 
