@@ -8,20 +8,20 @@
 <p align="center">
 <img width=500 src="https://files.catbox.moe/998tq9.png"
 </p>
+</p>
+ <p align="center">
+<img width=99 src="https://komarev.com/ghpvc/?username=exoean&color=e4e4e4&style=for-the-badge&label=‎ "
+ </p>
 <p align="center">
 <img width=159 src="https://files.catbox.moe/ntugv3.png"
 </p>
-</p>
-<p align="center">
-<img width=99 src="https://komarev.com/ghpvc/?username=exoean&color=e4e4e4&style=for-the-badge&label=‎ "
- </p>
  
 <div align="center">
 
 <div align="center">
   <div align="center"> 
 
- <sup> <img width=50 src="https://64.media.tumblr.com/fce67a0228088ae51b2e84a27f708d5f/5d11f03c6cef5499-86/s100x200/daa1c6dde28790e23b0c32efece9d07886884459.pnj"> [rentry](https://rentry.org/alecs) - [carrd](https://alenick.carrd.co) - [atabook](https://alenick.atabook.org)  -  [help palestine](https://arab.org/click-to-help/palestine/)
+ <sup> <img width=50 src="https://64.media.tumblr.com/fce67a0228088ae51b2e84a27f708d5f/5d11f03c6cef5499-86/s100x200/daa1c6dde28790e23b0c32efece9d07886884459.pnj"> [<img width=170 img src="https://files.catbox.moe/58ka2q.png">](rentry) ‎ ‎ ‎ [<img width=170 img src="https://files.catbox.moe/au9olm.png">](https://alenick.atabook.org) <img width=50 src="https://64.media.tumblr.com/fce67a0228088ae51b2e84a27f708d5f/5d11f03c6cef5499-86/s100x200/daa1c6dde28790e23b0c32efece9d07886884459.pnj">
 
  <p align="center">
 <img width=500 src="https://files.catbox.moe/salbxb.png"
