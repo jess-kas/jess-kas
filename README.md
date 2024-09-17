@@ -9,7 +9,7 @@
 <img width=500 src="https://files.catbox.moe/998tq9.png"
 </p>
 <p align="center">
-<img width=320 src="https://files.catbox.moe/8cyedh.png"
+<img width=159 src="https://files.catbox.moe/ntugv3.png"
 </p>
 </p>
 <p align="center">
