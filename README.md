@@ -21,7 +21,7 @@
 <div align="center">
   <div align="center"> 
 
- <sup> <img width=50 src="https://64.media.tumblr.com/fce67a0228088ae51b2e84a27f708d5f/5d11f03c6cef5499-86/s100x200/daa1c6dde28790e23b0c32efece9d07886884459.pnj"> [<img width=170 img src="https://files.catbox.moe/58ka2q.png">](https://rentry.org/alecs) ‎ ‎ ‎ [<img width=170 img src="https://files.catbox.moe/au9olm.png">](https://alenick.atabook.org) <img width=50 src="https://64.media.tumblr.com/fce67a0228088ae51b2e84a27f708d5f/5d11f03c6cef5499-86/s100x200/daa1c6dde28790e23b0c32efece9d07886884459.pnj">
+ <sup> [<img width=170 img src="https://files.catbox.moe/58ka2q.png">](https://rentry.org/alecs) ‎ ‎ ‎ [<img width=180 img src="https://files.catbox.moe/au9olm.png">](https://alenick.atabook.org) [<img width=100 img src="https://files.catbox.moe/vqpsi9.png">](https://rentry.org/yaoitation)
 
  <p align="center">
 <img width=500 src="https://files.catbox.moe/salbxb.png"
