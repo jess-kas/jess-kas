@@ -1,19 +1,15 @@
 
 
 
-
- <p align="center">
-<img width=800 src="https://64.media.tumblr.com/676a662b87b9e38e924e821ccf51ac60/8ec739b97745decb-40/s640x960/a84a8073367286c0dc7f1d8181ba4844416a032e.pnj"
-</p>
 <p align="center">
-<img width=500 src="https://files.catbox.moe/998tq9.png"
+<img width=800 src="https://64.media.tumblr.com/e173c6d03e878cf8b490ac1806eee6a4/bc307bdfdf5017fe-69/s400x600/86abaef1f98d880c115597572799fda898bce287.pnj"
 </p>
 </p>
  <p align="center">
 <img width=99 src="https://komarev.com/ghpvc/?username=exoean&color=e4e4e4&style=for-the-badge&label=‎ "
  </p>
 <p align="center">
-<img width=159 src="https://files.catbox.moe/ntugv3.png"
+<img width=370 src="https://files.catbox.moe/j41lbr.png"
 </p>
  
 <div align="center">
@@ -23,11 +19,11 @@
 
  <sup> [<img width=170 img src="https://files.catbox.moe/58ka2q.png">](https://rentry.org/alecs) ‎ ‎ ‎ [<img width=180 img src="https://files.catbox.moe/au9olm.png">](https://alenick.atabook.org) [<img width=100 img src="https://files.catbox.moe/vqpsi9.png">](https://rentry.org/yaoitation)
 
+
+
+
  <p align="center">
-<img width=500 src="https://files.catbox.moe/salbxb.png"
-</p>
- <p align="center">
-<img width=800 src="https://files.catbox.moe/nymy6o.png"
+<img width=800 src="https://64.media.tumblr.com/0ffa5521bed2223b8a5209245dbe30de/bc307bdfdf5017fe-b6/s400x600/8ea959c29b6d95fc207f242f9178e2451b72c2e5.pnj"
 </p>
 
 
