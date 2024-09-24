@@ -20,13 +20,15 @@
   <div align="center"> 
 
  <sup> [<img width=170 img src="https://files.catbox.moe/58ka2q.png">](https://rentry.org/alecs) ‎ ‎ ‎ [<img width=180 img src="https://files.catbox.moe/au9olm.png">](https://alenick.atabook.org) [<img width=100 img src="https://files.catbox.moe/vqpsi9.png">](https://rentry.org/yaoitation)
+ 
 
+![](https://64.media.tumblr.com/cfeda16767a423a07302dce5f91a16d1/492fa421672fd88c-2c/s100x200/a0eedcde56eea61d42ed371142943b9e8d5dec88.pnj) ![](https://64.media.tumblr.com/7c7a7105d29113e33e12c6cf8dc5a886/6f072ea04e7b6c72-fb/s100x200/19ef918f30903dd70219a980d1080b0221b84fa3.gifv) ![](https://64.media.tumblr.com/d0744daa5eb2bb40b22b2cec4bb84a86/8c49db604b0f3002-12/s100x200/7937c0b6bc1f3ac79ac0f80b0ee95460d1627230.pnj) <img width=90 img src="https://files.catbox.moe/oimzo6.png"> ![](https://64.media.tumblr.com/44be30cefa3c64253b3a17e661e427c8/79d8b316934d24c3-20/s100x200/ca8d8ef4b165c72b1777e678df29cc140457aecc.pnj)
 
 
 
  <p align="center">
 <img width=670 src="https://64.media.tumblr.com/0ffa5521bed2223b8a5209245dbe30de/bc307bdfdf5017fe-b6/s400x600/8ea959c29b6d95fc207f242f9178e2451b72c2e5.pnj"
-</p>
+</p> 
 <p align="center">
 <img width=800 src="https://64.media.tumblr.com/ce47ebe6089839d5c4c9f7ffc4af6e16/794d1ba06cddd4cf-4f/s400x600/b6a0c0620d1895a726edbe1e2e6adf811e2fc3b6.pnj"
 </p>
