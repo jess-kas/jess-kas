@@ -2,14 +2,14 @@
 
 
 <p align="center">
-<img width=800 src="https://64.media.tumblr.com/e173c6d03e878cf8b490ac1806eee6a4/bc307bdfdf5017fe-69/s400x600/86abaef1f98d880c115597572799fda898bce287.pnj"
+<img width=670 src="https://64.media.tumblr.com/e173c6d03e878cf8b490ac1806eee6a4/bc307bdfdf5017fe-69/s400x600/86abaef1f98d880c115597572799fda898bce287.pnj"
 </p>
 </p>
  <p align="center">
 <img width=99 src="https://komarev.com/ghpvc/?username=exoean&color=e4e4e4&style=for-the-badge&label=‎ "
  </p>
 <p align="center">
-<img width=370 src="https://files.catbox.moe/j41lbr.png"
+<img width=330 src="https://files.catbox.moe/j41lbr.png"
 </p>
  
 <div align="center">
@@ -23,7 +23,7 @@
 
 
  <p align="center">
-<img width=800 src="https://64.media.tumblr.com/0ffa5521bed2223b8a5209245dbe30de/bc307bdfdf5017fe-b6/s400x600/8ea959c29b6d95fc207f242f9178e2451b72c2e5.pnj"
+<img width=670 src="https://64.media.tumblr.com/0ffa5521bed2223b8a5209245dbe30de/bc307bdfdf5017fe-b6/s400x600/8ea959c29b6d95fc207f242f9178e2451b72c2e5.pnj"
 </p>
 
 
