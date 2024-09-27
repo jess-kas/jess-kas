@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img width=1200 src="https://i.postimg.cc/q72KxJ5T/image-2024-05-23-231831162.png"
+<img width=1200 src="https://i.postimg.cc/qv019v91/image-2024-05-23-233900398.png"
 </p>
  <p align="center">
 <img width=630 src="https://i.postimg.cc/PqbL86Cf/image-2024-05-23-231855793.png"
@@ -34,7 +34,7 @@ alec ‎<img width=30 src="https://i.postimg.cc/VLGpPrNX/IMG-5873.gif"> ‎ <kbd
 <img width=630 src="https://i.postimg.cc/SxCRwZ7L/image-2024-05-23-231913045.png"
 </p>
 <p align="center">
-<img width=1200 src="https://i.postimg.cc/q72KxJ5T/image-2024-05-23-231831162.png"
+<img width=1200 src="https://i.postimg.cc/T1gc4zQ8/image-2024-05-23-233922221.png"
 </p>
 
 
