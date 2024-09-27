@@ -6,6 +6,9 @@
  <p align="center">
 <img width=630 src="https://i.postimg.cc/j571zNRq/image-2024-05-24-011027187.png"
 </p>
+  <p align="center">
+<img width=630 src="https://i.postimg.cc/LXKwvYcv/image-2024-05-23-211938580.png"
+</p>
 </p>
  <p align="center">
 <img width=99 src="https://komarev.com/ghpvc/?username=exoean&color=e4e4e4&style=for-the-badge&label=‎ "
@@ -29,7 +32,9 @@ alec ‎<img width=30 src="https://i.postimg.cc/VLGpPrNX/IMG-5873.gif"> ‎ <kbd
 ![](https://64.media.tumblr.com/cfeda16767a423a07302dce5f91a16d1/492fa421672fd88c-2c/s100x200/a0eedcde56eea61d42ed371142943b9e8d5dec88.pnj) ![](https://64.media.tumblr.com/7c7a7105d29113e33e12c6cf8dc5a886/6f072ea04e7b6c72-fb/s100x200/19ef918f30903dd70219a980d1080b0221b84fa3.gifv) ![](https://64.media.tumblr.com/d0744daa5eb2bb40b22b2cec4bb84a86/8c49db604b0f3002-12/s100x200/7937c0b6bc1f3ac79ac0f80b0ee95460d1627230.pnj) <img width=90 img src="https://files.catbox.moe/oimzo6.png"> ![](https://64.media.tumblr.com/44be30cefa3c64253b3a17e661e427c8/79d8b316934d24c3-20/s100x200/ca8d8ef4b165c72b1777e678df29cc140457aecc.pnj)
 
 
-
+<p align="center">
+<img width=630 src="https://i.postimg.cc/52DRNQ21/image-2024-05-23-211949610.png"
+</p>
  <p align="center">
 <img width=630 src="https://i.postimg.cc/7ZttdX6Y/image-2024-05-24-011041263.png"
 </p>
