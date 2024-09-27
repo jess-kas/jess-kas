@@ -14,11 +14,11 @@
 <img width=99 src="https://komarev.com/ghpvc/?username=exoean&color=e4e4e4&style=for-the-badge&label=‎ "
  </p>
 <p align="center">
-<img width=330 src="https://files.catbox.moe/5icv6p.png"
+<img width=330 src="https://files.catbox.moe/akqhmn.png"
 </p>
 </p>
 <p align="center">
-alec ‎<img width=30 src="https://i.postimg.cc/VLGpPrNX/IMG-5873.gif"> ‎ <kbd>any prns (he / they pref)</kbd>
+alec , luke or lukas ‎<img width=30 src="https://i.postimg.cc/VLGpPrNX/IMG-5873.gif"> ‎ <kbd>any prns (he / they pref)</kbd>
 </p>
  
 <div align="center">
