@@ -15,7 +15,7 @@
 </p>
 </p>
 <p align="center">
-alec , luke or lukas ‎<img width=30 src="https://i.postimg.cc/VLGpPrNX/IMG-5873.gif"> ‎ <kbd>any prns (he / they pref)</kbd>
+$${\color{#0E121B} alec \space , \space luke \space or \space lukas  }$$ ‎<img width=30 src="https://i.postimg.cc/VLGpPrNX/IMG-5873.gif"> ‎ <kbd>any prns (he / they pref)</kbd>
 </p>
  
 <div align="center">
