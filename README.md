@@ -11,7 +11,7 @@
 <img width=99 src="https://komarev.com/ghpvc/?username=exoean&color=0e121b&style=for-the-badge&label=‎ "
  </p>
 <p align="center">
-<img width=330 src="https://files.catbox.moe/akqhmn.png"
+<img width=430 src="https://files.catbox.moe/9f4f3b.png"
 </p>
 </p>
 <p align="center">
