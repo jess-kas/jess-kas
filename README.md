@@ -4,7 +4,7 @@
 <img width=1200 src="https://i.postimg.cc/qv019v91/image-2024-05-23-233900398.png"
 </p>
  <p align="center">
-<img width=630 src="https://i.postimg.cc/qRMbHrpK/image-2024-05-23-222619339.png"
+<img width=630 src="https://i.postimg.cc/ZYr8xRp5/image-2024-05-23-230252175.png"
 </p>  
 </p>
  <p align="center">
@@ -24,14 +24,18 @@ alec , luke or lukas ‎<img width=30 src="https://i.postimg.cc/VLGpPrNX/IMG-587
   <div align="center"> 
 
  <sup> [<img width=170 img src="https://files.catbox.moe/58ka2q.png">](https://rentry.org/alecs) ‎ ‎ ‎ [<img width=180 img src="https://files.catbox.moe/au9olm.png">](https://alenick.atabook.org) [<img width=100 img src="https://files.catbox.moe/vqpsi9.png">](https://rentry.org/yaoitation)
- 
+
+ </p>
+ <p align="center">
+ <img width=220 src="https://files.catbox.moe/9099gw.gif">
+ </p>
 
 <img width=90 img src="https://files.catbox.moe/oimzo6.png"> <img width=90 img src="https://files.catbox.moe/fv72x2.png"> ![](https://64.media.tumblr.com/44be30cefa3c64253b3a17e661e427c8/79d8b316934d24c3-20/s100x200/ca8d8ef4b165c72b1777e678df29cc140457aecc.pnj)
 
 
 
  <p align="center">
-<img width=630 src="https://i.postimg.cc/qRMbHrpK/image-2024-05-23-222619339.png"
+<img width=630 src="https://i.postimg.cc/XYv9Wkhr/image-2024-05-23-230305777.png"
 </p>
 <p align="center">
 <img width=1200 src="https://i.postimg.cc/T1gc4zQ8/image-2024-05-23-233922221.png"
