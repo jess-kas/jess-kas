@@ -4,7 +4,7 @@
 <img width=1200 src="https://i.postimg.cc/qv019v91/image-2024-05-23-233900398.png"
 </p>
  <p align="center">
-<img width=630 src="https://files.catbox.moe/n0qi96.png"
+<img width=630 src="https://files.catbox.moe/iua1t6.png"
 </p>  
 </p>
  <p align="center">
@@ -31,7 +31,7 @@ alec , luke or lukas ‎<img width=30 src="https://i.postimg.cc/VLGpPrNX/IMG-587
 
 
  <p align="center">
-<img width=630 src="https://files.catbox.moe/3xj5e8.jpg"
+<img width=630 src="https://files.catbox.moe/1y3wda.png"
 </p>
 <p align="center">
 <img width=1200 src="https://i.postimg.cc/T1gc4zQ8/image-2024-05-23-233922221.png"
