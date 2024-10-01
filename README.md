@@ -42,10 +42,8 @@ alec , luke or lukas ‎<img width=30 src="https://i.postimg.cc/VLGpPrNX/IMG-587
 </p>
 
 
-</p>
-<p align="center">
- im listening to
-</p>
+
+
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3ndkvwf6z4u9bol65hf88iued&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=2d3f43&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
