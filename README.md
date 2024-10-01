@@ -15,7 +15,7 @@
 </p>
 </p>
 <p align="center">
-alec , luke or lukas ‎<img width=30 src="https://i.postimg.cc/VLGpPrNX/IMG-5873.gif"> ‎ <kbd>any prns (he / they pref)</kbd>
+alec , luke or lukas ‎<img width=30 src="https://i.postimg.cc/VLGpPrNX/IMG-5873.gif"> ‎ <kbd>any prns , pref he/she/they </kbd>
 </p>
  
 <div align="center">
