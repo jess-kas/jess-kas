@@ -23,7 +23,7 @@ alec , luke or lukas ‎<img width=30 src="https://i.postimg.cc/VLGpPrNX/IMG-587
 <div align="center">
   <div align="center"> 
 
- <sup> [<img width=170 img src="https://files.catbox.moe/58ka2q.png">](https://rentry.org/alecs) ‎ ‎ ‎ [<img width=180 img src="https://files.catbox.moe/au9olm.png">](https://alenick.atabook.org) [<img width=100 img src="https://files.catbox.moe/vqpsi9.png">](https://rentry.org/yaoitation)
+ <sup> [<img width=170 img src="https://files.catbox.moe/58ka2q.png">](https://rentry.org/alecs) ‎ ‎ ‎ [<img width=180 img src="https://files.catbox.moe/au9olm.png">](https://jesskas.atabook.org) [<img width=100 img src="https://files.catbox.moe/vqpsi9.png">](https://rentry.org/yaoitation)
 
  </p>
  <p align="center">
