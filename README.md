@@ -4,7 +4,7 @@
 <img width=1200 src="https://i.postimg.cc/qv019v91/image-2024-05-23-233900398.png"
 </p>
  <p align="center">
-<img width=630 src="https://i.postimg.cc/ZYr8xRp5/image-2024-05-23-230252175.png"
+<img width=630 src="https://64.media.tumblr.com/d393321a392b125f440c06c20b0dc51d/0aaac5d9744d8521-ec/s1280x1920/50e9e32ba7be0bae217157c059abf9a3ac8c88f5.pnj"
 </p>  
 </p>
  <p align="center">
@@ -15,7 +15,7 @@
 </p>
 </p>
 <p align="center">
-alec , luke or lukas ‎<img width=30 src="https://i.postimg.cc/VLGpPrNX/IMG-5873.gif"> ‎ <kbd>any prns , pref he/she/they </kbd>
+alec , luke or lukas ‎<img width=30 src="https://files.catbox.moe/b1u00v.gif"> ‎ <kbd>any prns , pref he/she/they </kbd>
 </p>
  
 <div align="center">
@@ -27,7 +27,7 @@ alec , luke or lukas ‎<img width=30 src="https://i.postimg.cc/VLGpPrNX/IMG-587
 
  </p>
  <p align="center">
- <img width=220 src="https://files.catbox.moe/9099gw.gif">
+ <img width=220 src="https://i.postimg.cc/PqvwNDcX/image-2024-05-24-000158218.png">
  </p>
 
 <img width=90 img src="https://files.catbox.moe/oimzo6.png"> <img width=90 img src="https://files.catbox.moe/fv72x2.png"> ![](https://64.media.tumblr.com/44be30cefa3c64253b3a17e661e427c8/79d8b316934d24c3-20/s100x200/ca8d8ef4b165c72b1777e678df29cc140457aecc.pnj)
@@ -35,7 +35,7 @@ alec , luke or lukas ‎<img width=30 src="https://i.postimg.cc/VLGpPrNX/IMG-587
 
 
  <p align="center">
-<img width=630 src="https://i.postimg.cc/XYv9Wkhr/image-2024-05-23-230305777.png"
+<img width=630 src="https://64.media.tumblr.com/d393321a392b125f440c06c20b0dc51d/0aaac5d9744d8521-ec/s1280x1920/50e9e32ba7be0bae217157c059abf9a3ac8c88f5.pnj"
 </p>
 <p align="center">
 <img width=1200 src="https://i.postimg.cc/T1gc4zQ8/image-2024-05-23-233922221.png"
