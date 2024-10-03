@@ -1,17 +1,17 @@
 
 
 <p align="center">
-<img width=1200 src="https://i.postimg.cc/qv019v91/image-2024-05-23-233900398.png"
+<img width=1200 src="https://i.postimg.cc/brHcxF7g/image-2024-05-23-235207933.png"
 </p>
  <p align="center">
-<img width=630 src="https://64.media.tumblr.com/d393321a392b125f440c06c20b0dc51d/0aaac5d9744d8521-ec/s1280x1920/50e9e32ba7be0bae217157c059abf9a3ac8c88f5.pnj"
+<img width=630 src="https://64.media.tumblr.com/aa81a0b589d42f12d008ab9fec6048a5/544d3f7c8907ac1a-4a/s640x960/29574030c9b65b52dda12c332d56d76e6abee2f6.pnj"
 </p>  
 </p>
  <p align="center">
-<img width=99 src="https://komarev.com/ghpvc/?username=exoean&color=0e121b&style=for-the-badge&label=‎ "
+<img width=99 src="https://komarev.com/ghpvc/?username=exoean&color=4b1515&style=for-the-badge&label=‎ "
  </p>
 <p align="center">
-<img width=430 src="https://files.catbox.moe/9f4f3b.png"
+<img width=430 src="https://files.catbox.moe/8cimp4.png"
 </p>
 </p>
 <p align="center">
@@ -30,15 +30,19 @@ alec , luke or lukas ‎<img width=30 src="https://files.catbox.moe/b1u00v.gif">
  <img width=220 src="https://i.postimg.cc/PqvwNDcX/image-2024-05-24-000158218.png">
  </p>
 
-<img width=90 img src="https://files.catbox.moe/oimzo6.png"> <img width=90 img src="https://files.catbox.moe/fv72x2.png"> ![](https://64.media.tumblr.com/44be30cefa3c64253b3a17e661e427c8/79d8b316934d24c3-20/s100x200/ca8d8ef4b165c72b1777e678df29cc140457aecc.pnj)
+<img width=90 img src="https://i.postimg.cc/zvZ981fV/IMG-4799.gif"> <img width=90 img src="https://i.postimg.cc/vHCN5yyT/IMG-4794.gif">
+</p>
+<p align="center">
+ <img width=230 src="https://blinkies.cafe/b/display/0238-heartsconnected.gif">
+</p>
 
 
 
  <p align="center">
-<img width=630 src="https://64.media.tumblr.com/d393321a392b125f440c06c20b0dc51d/0aaac5d9744d8521-ec/s1280x1920/50e9e32ba7be0bae217157c059abf9a3ac8c88f5.pnj"
+<img width=630 src="https://64.media.tumblr.com/f72d4b2fe8f28c9be5a200e0a7d921bf/544d3f7c8907ac1a-06/s640x960/92a26b4dbe6d6ffd4f8ff79717ba84e5fa9b3b19.pnj"
 </p>
 <p align="center">
-<img width=1200 src="https://i.postimg.cc/T1gc4zQ8/image-2024-05-23-233922221.png"
+<img width=1200 src="https://i.postimg.cc/PrtBGKsG/image-2024-05-23-235225075.png"
 </p>
 
 
