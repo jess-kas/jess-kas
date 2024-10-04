@@ -8,15 +8,22 @@
 </p>  
 </p>
  <p align="center">
-<img width=99 src="https://komarev.com/ghpvc/?username=exoean&color=4b1515&style=for-the-badge&label=‎ "
+<img width=130 src="https://komarev.com/ghpvc/?username=exoean&color=4b1515&style=for-the-badge&label=‎views"
  </p>
 <p align="center">
-<img width=430 src="https://files.catbox.moe/8cimp4.png"
+<img width=430 src="https://files.catbox.moe/yicsrf.png"
 </p>
 </p>
 <p align="center">
-alec , luke or lukas ‎<img width=30 src="https://files.catbox.moe/b1u00v.gif"> ‎ <kbd>any prns , pref he/she/they </kbd>
+<img width=20 src="https://64.media.tumblr.com/3ec462d9f662aea278ed21ccd17403f0/tumblr_inline_pacoc4NHZv1ry72eo_75sq.gif">𝗹𝗲𝗰 , <img width=20 src="https://64.media.tumblr.com/1793e17e7bbfcdb2b2dcdd4bbb9fe4ec/tumblr_inline_pacoc6bUG11ry72eo_75sq.gif">𝘂𝗸𝗲 or <img width=20 src="https://64.media.tumblr.com/1793e17e7bbfcdb2b2dcdd4bbb9fe4ec/tumblr_inline_pacoc6bUG11ry72eo_75sq.gif">𝘂𝗸𝗮𝘀 ‎<img width=30 src="https://files.catbox.moe/4386rj.gif"> ‎ <kbd>any prns , pref he/she/they </kbd>
 </p>
+ </p>
+‎ 
+‎ 
+‎ 
+ <p align="center">
+ <img width=220 src="https://i.postimg.cc/PqvwNDcX/image-2024-05-24-000158218.png">
+ </p> 
  
 <div align="center">
 
@@ -25,16 +32,9 @@ alec , luke or lukas ‎<img width=30 src="https://files.catbox.moe/b1u00v.gif">
 
  <sup> [<img width=170 img src="https://files.catbox.moe/60jjj7.png">](https://rentry.org/alecs) ‎ ‎ ‎ [<img width=180 img src="https://files.catbox.moe/xfv91r.png">](https://jesskas.atabook.org) 
 
- </p>
- <p align="center">
- <img width=220 src="https://i.postimg.cc/PqvwNDcX/image-2024-05-24-000158218.png">
- </p>
 
-<img width=90 img src="https://i.postimg.cc/zvZ981fV/IMG-4799.gif"> <img width=90 img src="https://i.postimg.cc/vHCN5yyT/IMG-4794.gif">
-</p>
-<p align="center">
- <img width=230 src="https://blinkies.cafe/b/display/0238-heartsconnected.gif">
-</p>
+
+
 
 
 
@@ -50,6 +50,10 @@ alec , luke or lukas ‎<img width=30 src="https://files.catbox.moe/b1u00v.gif">
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3ndkvwf6z4u9bol65hf88iued&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=ff0000&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=3ndkvwf6z4u9bol65hf88iued&redirect=true)
+
+<p align="center">
+<img width=1200 src="https://i.postimg.cc/brHcxF7g/image-2024-05-23-235207933.png"
+</p>
 
 ‎ 
 
