@@ -8,21 +8,21 @@
 </p>  
 </p>
  <p align="center">
-<img width=130 src="https://komarev.com/ghpvc/?username=exoean&color=4b1515&style=for-the-badge&label=‎views"
+<img width=150 src="https://komarev.com/ghpvc/?username=exoean&color=4b1515&style=for-the-badge&label=‎views"
  </p>
 <p align="center">
-<img width=430 src="https://files.catbox.moe/yicsrf.png"
+<img width=430 src="https://files.catbox.moe/a4cpwo.png"
 </p>
 </p>
 <p align="center">
-<img width=20 src="https://64.media.tumblr.com/3ec462d9f662aea278ed21ccd17403f0/tumblr_inline_pacoc4NHZv1ry72eo_75sq.gif">𝗹𝗲𝗰 , <img width=20 src="https://64.media.tumblr.com/1793e17e7bbfcdb2b2dcdd4bbb9fe4ec/tumblr_inline_pacoc6bUG11ry72eo_75sq.gif">𝘂𝗸𝗲 or <img width=20 src="https://64.media.tumblr.com/1793e17e7bbfcdb2b2dcdd4bbb9fe4ec/tumblr_inline_pacoc6bUG11ry72eo_75sq.gif">𝘂𝗸𝗮𝘀 ‎<img width=30 src="https://files.catbox.moe/4386rj.gif"> ‎ <kbd>any prns , pref he/she/they </kbd>
+<img width=20 src="https://64.media.tumblr.com/3ec462d9f662aea278ed21ccd17403f0/tumblr_inline_pacoc4NHZv1ry72eo_75sq.gif">𝗹𝗲𝗰 , <img width=20 src="https://64.media.tumblr.com/1793e17e7bbfcdb2b2dcdd4bbb9fe4ec/tumblr_inline_pacoc6bUG11ry72eo_75sq.gif">𝘂𝗸𝗲 or <img width=20 src="https://64.media.tumblr.com/1793e17e7bbfcdb2b2dcdd4bbb9fe4ec/tumblr_inline_pacoc6bUG11ry72eo_75sq.gif">𝘂𝗸𝗮𝘀 ‎<img width=30 src="https://files.catbox.moe/4386rj.gif"> ‎ <kbd>any prns , no it/neos </kbd>
 </p>
  </p>
 ‎ 
 ‎ 
 ‎ 
  <p align="center">
- <img width=220 src="https://i.postimg.cc/PqvwNDcX/image-2024-05-24-000158218.png">
+ <img width=320 src="https://i.postimg.cc/PqvwNDcX/image-2024-05-24-000158218.png">
  </p> 
  
 <div align="center">
