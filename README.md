@@ -8,7 +8,7 @@
 </p>  
 </p>
  <p align="center">
-<img width=150 src="https://komarev.com/ghpvc/?username=exoean&color=4b1515&style=for-the-badge&label=‎views"
+<img width=150 src="https://komarev.com/ghpvc/?username=exoean&color=4b1515&style=plastic&label=‎views"
  </p>
 <p align="center">
 <img width=430 src="https://files.catbox.moe/a4cpwo.png"
