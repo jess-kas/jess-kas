@@ -28,10 +28,7 @@
 <div align="center">
   <div align="center"> 
 
- <sup> [<img width=170 img src="https://files.catbox.moe/60jjj7.png">](https://rentry.org/storymode) ‎ ‎ ‎ [<img width=180 img src="https://files.catbox.moe/xfv91r.png">](https://jesskas.atabook.org) 
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3ndkvwf6z4u9bol65hf88iued&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=3ndkvwf6z4u9bol65hf88iued&redirect=true)
-
+ <sup> [<img width=170 img src="https://files.catbox.moe/271vtg.png">](https://rentry.org/storymode) ‎ ‎ ‎ [<img width=180 img src="https://files.catbox.moe/b10tq2.png">](https://jesskas.atabook.org) 
 
 
 
@@ -44,7 +41,7 @@
 
 
 
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3ndkvwf6z4u9bol65hf88iued&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=3ndkvwf6z4u9bol65hf88iued&redirect=true)
 
 
 
