@@ -2,24 +2,20 @@
 
 
  <p align="center">
-<img width=600 src="https://64.media.tumblr.com/1c6c133f0bd7535a8dbec8532acc0540/9328399053a229d5-e7/s2048x3072/1cce4ece18daa03da94ed40eae723f334580850c.pnj"
+<img width=600 src="https://64.media.tumblr.com/2301b1a65f042dc54e7acb5b8b61077a/a7c10038a1e9f850-fb/s1280x1920/b45ba34ffa6981d500342dc84e853cec1167ba2e.pnj"
 </p>  
 </p>
  <p align="center">
-<img width=150 src="https://komarev.com/ghpvc/?username=exoean&color=000000&style=plastic&label=‎subscribers"
+<img width=150 src="https://komarev.com/ghpvc/?username=exoean&color=000000&style=plastic&label=‎impedeness"
  </p>
 <p align="center">
-<img width=340 src="https://i.makeagif.com/media/3-17-2021/mioWF0.gif"
+<img width=340 src="https://64.media.tumblr.com/a9436031d0ecb2b3c50f19c96bd9211f/tumblr_o8tub5mOiJ1squtqqo10_250.gif"
 </p>
 </p>
 <p align="center">
 
  </p>
 ‎ 
-</p>
-<p align="center">
- <img width=490 src="https://i.postimg.cc/7LFhV9Pc/image-2024-05-23-212215969.png">
-</p>
 ‎ 
 ‎  
  
@@ -28,14 +24,14 @@
 <div align="center">
   <div align="center"> 
 
- <sup> [<img width=170 img src="https://files.catbox.moe/271vtg.png">](https://rentry.org/storymode) ‎ ‎ ‎ [<img width=180 img src="https://files.catbox.moe/b10tq2.png">](https://jesskas.atabook.org) 
+ <sup> [<img width=150 img src="https://files.catbox.moe/271vtg.png">](https://rentry.org/storymode) ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ [<img width=180 img src="https://files.catbox.moe/b10tq2.png">](https://jesskas.atabook.org) 
 
 
 
 
 
  <p align="center">
-<img width=600 src="https://files.catbox.moe/dhxtl8.png"
+<img width=600 src="https://64.media.tumblr.com/16639362f9bad875b959c0f2f9792ff0/a7c10038a1e9f850-53/s1280x1920/63d3e63e60a6af7d9d6553b29bda18798542f500.pnj"
 </p>
 
 
