@@ -9,7 +9,7 @@
 <img width=150 src="https://komarev.com/ghpvc/?username=exoean&color=000000&style=plastic&label=youtube+viewers"
  </p>
 <p align="center">
-<img width=340 src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a2a083ae-ecf1-45cf-a839-d46756bde6d0/da74ydk-549774c8-2e75-4641-ab99-88e77434c676.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EyYTA4M2FlLWVjZjEtNDVjZi1hODM5LWQ0Njc1NmJkZTZkMFwvZGE3NHlkay01NDk3NzRjOC0yZTc1LTQ2NDEtYWI5OS04OGU3NzQzNGM2NzYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9we7U-mXhM_o009BNmMpFg2IvpBp-KDd3iDjsVRpFw8"
+<img width=340 src="https://64.media.tumblr.com/c1fa0c43a90f251991960c85d4fd83bb/tumblr_ov4cf6Z0uO1squtqqo2_400.gifv"
 </p>
 </p>
 <p align="center">
