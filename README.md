@@ -24,7 +24,7 @@
 <div align="center">
   <div align="center"> 
 
- <sup> [<img width=150 img src="https://files.catbox.moe/271vtg.png">](https://rentry.org/storymode) ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ [<img width=180 img src="https://files.catbox.moe/b10tq2.png">](https://jesskas.atabook.org) 
+ <sup> [<img width=150 img src="https://files.catbox.moe/271vtg.png">](https://rentry.org/goggles) ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ [<img width=180 img src="https://files.catbox.moe/b10tq2.png">](https://jesskas.atabook.org) 
 
 
 
