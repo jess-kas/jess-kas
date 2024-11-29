@@ -1,41 +1,27 @@
-
-
-
- <p align="center">
-<img width=600 src="https://64.media.tumblr.com/2301b1a65f042dc54e7acb5b8b61077a/a7c10038a1e9f850-fb/s1280x1920/b45ba34ffa6981d500342dc84e853cec1167ba2e.pnj"
-</p>  
 </p>
  <p align="center">
-<img width=150 src="https://komarev.com/ghpvc/?username=exoean&color=000000&style=plastic&label=youtube+viewers"
+<img width=150 src="https://komarev.com/ghpvc/?username=exoean&color=000000&style=plastic&label=oh+see+lot"
  </p>
 <p align="center">
-<img width=340 src="https://64.media.tumblr.com/c1fa0c43a90f251991960c85d4fd83bb/tumblr_ov4cf6Z0uO1squtqqo2_400.gifv"
+<img width=340 src="https://facelessbookblog.wordpress.com/wp-content/uploads/2020/07/ocelot.gif?w=216&h=216"
 </p>
 </p>
 <p align="center">
 
  </p>
 ‎ 
-‎ 
-‎  
- 
+
 <div align="center">
 
 <div align="center">
   <div align="center"> 
 
- <sup> [<img width=150 img src="https://files.catbox.moe/271vtg.png">](https://rentry.org/goggles) ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ [<img width=180 img src="https://files.catbox.moe/b10tq2.png">](https://jesskas.atabook.org) 
+ <sup> [<img width=150 img src="https://files.catbox.moe/271vtg.png">](https://rentry.org/goggles) ‎ ‎‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎ [<img width=180 img src="https://files.catbox.moe/b10tq2.png">](https://jesskas.atabook.org) 
 
 
-
-
-
- <p align="center">
-<img width=600 src="https://64.media.tumblr.com/16639362f9bad875b959c0f2f9792ff0/a7c10038a1e9f850-53/s1280x1920/63d3e63e60a6af7d9d6553b29bda18798542f500.pnj"
-</p>
-
-
-
+‎ 
+‎ 
+‎ 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3ndkvwf6z4u9bol65hf88iued&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=3ndkvwf6z4u9bol65hf88iued&redirect=true)
 
