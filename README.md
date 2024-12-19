@@ -1,9 +1,9 @@
 </p>
  <p align="center">
-<img width=150 src="https://komarev.com/ghpvc/?username=exoean&color=000000&style=plastic&label=oh+see+lot"
+<img width=70 src="https://komarev.com/ghpvc/?username=exoean&color=000000&style=plastic&label=oh"
  </p>
 <p align="center">
-<img width=340 src="https://facelessbookblog.wordpress.com/wp-content/uploads/2020/07/ocelot.gif?w=216&h=216"
+<img width=340 src="https://64.media.tumblr.com/fff6bf101f503d14a0fd8519d49bb9a3/35b416a611c2559f-50/s2048x3072_c510,0,98724,100000/33bd1f8de893e12e1f9ad4d4b577c8d9de281746.gif"
 </p>
 </p>
 <p align="center">
@@ -16,7 +16,7 @@
 <div align="center">
   <div align="center"> 
 
- <sup> [<img width=150 img src="https://files.catbox.moe/271vtg.png">](https://rentry.org/goggles) ‎ ‎‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎ [<img width=180 img src="https://files.catbox.moe/b10tq2.png">](https://jesskas.atabook.org) 
+ <sup> [<img width=150 img src="https://files.catbox.moe/271vtg.png">](https://rentry.org/marykate) ‎ ‎‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎ [<img width=180 img src="https://files.catbox.moe/b10tq2.png">](https://alenick.atabook.org) 
 
 
 ‎ 
