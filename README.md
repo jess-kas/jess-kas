@@ -16,7 +16,7 @@
 <div align="center">
   <div align="center"> 
 
- <sup> [<img width=150 img src="https://files.catbox.moe/271vtg.png">](https://rentry.org/marykate) ‎ ‎‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎ [<img width=180 img src="https://files.catbox.moe/b10tq2.png">](https://alenick.atabook.org) 
+ <sup> [<img width=150 img src="https://files.catbox.moe/271vtg.png">](https://rentry.org/mytulip) ‎ ‎‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎ [<img width=180 img src="https://files.catbox.moe/b10tq2.png">](https://alenick.atabook.org) 
 
 
 ‎ 
