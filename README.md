@@ -6,9 +6,6 @@
 <img width=340 src="https://64.media.tumblr.com/fff6bf101f503d14a0fd8519d49bb9a3/35b416a611c2559f-50/s2048x3072_c510,0,98724,100000/33bd1f8de893e12e1f9ad4d4b577c8d9de281746.gif"
 </p>
 
- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3ndkvwf6z4u9bol65hf88iued&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=3ndkvwf6z4u9bol65hf88iued&redirect=true)
-
-
 
 
 
