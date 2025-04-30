@@ -1,9 +1,9 @@
 </p>
  <p align="center">
-<img width=70 src="https://komarev.com/ghpvc/?username=exoean&color=000000&style=plastic&label=ok"
+<img width=70 src="https://komarev.com/ghpvc/?username=exoean&color=ff0000&style=plastic&label=ok"
  </p>
 <p align="center">
-<img width=340 src="https://64.media.tumblr.com/fff6bf101f503d14a0fd8519d49bb9a3/35b416a611c2559f-50/s2048x3072_c510,0,98724,100000/33bd1f8de893e12e1f9ad4d4b577c8d9de281746.gif"
+<img width=340 src="https://static.wikia.nocookie.net/shipping/images/c/c3/Tom_and_Jake_share_a_tender_moment.gif/revision/latest/scale-to-width-down/732?cb=20241012195252"
 </p>
 
 
