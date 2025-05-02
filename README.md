@@ -1,9 +1,9 @@
 </p>
  <p align="center">
-<img width=70 src="https://komarev.com/ghpvc/?username=exoean&color=ff0000&style=plastic&label=ok"
+<img width=70 src="https://komarev.com/ghpvc/?username=exoean&color=a9a9a9&style=plastic&label=ok"
  </p>
 <p align="center">
-<img width=340 src="https://static.wikia.nocookie.net/shipping/images/c/c3/Tom_and_Jake_share_a_tender_moment.gif/revision/latest/scale-to-width-down/732?cb=20241012195252"
+<img width=340 src="https://media.tenor.com/ffiVurWFPskAAAAM/disventure-camp-alec-disventure-camp.gif"
 </p>
 
 
