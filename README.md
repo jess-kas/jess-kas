@@ -1,10 +1,7 @@
 </p>
  <p align="center">
-<img width=70 src="https://komarev.com/ghpvc/?username=exoean&color=a9a9a9&style=plastic&label=ok"
+<img width=90 src="https://komarev.com/ghpvc/?username=exoean&color=a9a9a9&style=plastic&label=hi"
  </p>
-<p align="center">
-<img width=340 src="https://media.tenor.com/ffiVurWFPskAAAAM/disventure-camp-alec-disventure-camp.gif"
-</p>
 
 
 
